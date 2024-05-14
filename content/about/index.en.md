@@ -12,7 +12,7 @@ math:
 ---
 
 ## Hello!
-{{< admonition warning "Just so you know"> false }}
+{{< admonition warning "Just so you know" false >}}
 I'm Dougie, a solo developer based in OHIO. Yeah, I know. 
 {{< /admonition>}}
 
@@ -28,7 +28,7 @@ I really enjoy pixel art with a "floppy" style and creating cozy feeling games. 
 
 
 
-{{< admonition tip "Hey!"> true }}
+{{< admonition tip "Hey!" true >}}
 Press *Ctrl+D* to bookmark the page ૮ ˶ᵔ ᵕ ᵔ˶ ა 
 {{< /admonition>}}
 ___
@@ -45,7 +45,7 @@ ___
 And even feed my cat :(fas fa-cat fa-spin):
 ![Dougie's Room](/images/food.png "I love Kibble")
 
-{{< admonition tip "Progress"> false }}
+{{< admonition tip "Progress" false >}}
 This should be released in a month, I just need to purchase the correct license. WOOO!
 {{< /admonition>}}
 

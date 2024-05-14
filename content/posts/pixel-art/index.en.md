@@ -23,7 +23,7 @@ Find all my character art, landscapes, and animation tutorials here!
 
 <!--more-->
 ---
-{{< admonition tip "Hey!">}}
+{{< admonition tip "Hey!" >}}
 Would you like to dance? 
 {{< /admonition >}}
 

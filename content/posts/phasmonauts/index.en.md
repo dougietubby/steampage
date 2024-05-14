@@ -20,7 +20,7 @@ Phasmonauts is a 4 player local co-op supernatural roguelite. Cryptid sightings 
 
 {{< admonition warning "Wanna Play?" false >}}
 Apply [Here](https://store.steampowered.com/app/2654210/Phasmonauts/)
-{{< /admonition>}}
+{{< /admonition >}}
 ## Wishlist Here
 [![Wishlist](/images/phasmonauts-vertical.png)](https://store.steampowered.com/app/2654210/Phasmonauts/)
 

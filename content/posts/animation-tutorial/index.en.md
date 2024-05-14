@@ -50,7 +50,7 @@ Use the sketch of your character as the *normal* frame. The character should app
 
 ### Frame 2: Squish
 Simply, duplicate the frame of your character and *squish* it. Shorten and widen your character by a few pixels. 
-{{< admonition tip "Tip">}}
+{{< admonition tip "Tip" true >}}
 Use the *selection* tool to move pixels around easily.
 {{< /admonition >}}
 ![Key Frame](/images/sLuma-squish-edit.png "Squished Luma")
@@ -160,7 +160,7 @@ Easily compare the changes we've made to polish our animation. By applying momen
 
 # Conclusion
 Thank you for reading my tutorial! I hope you learned how to quickly animate your characters. 
-{{< admonition tip "Hey!" true>}}
+{{< admonition tip "Hey!" true >}}
 Press *Ctrl+D* to bookmark :(fas fa-bookmark fa-fw): the page ૮ ˶ᵔ ᵕ ᵔ˶ ა.
 {{< /admonition >}}
 
