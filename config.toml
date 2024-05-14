@@ -1,0 +1,6 @@
+baseURL = 'https://dougie.cool/'
+languageCode = 'en-us'
+title = 'dougie'
+
+theme = 'DoIt'
+
