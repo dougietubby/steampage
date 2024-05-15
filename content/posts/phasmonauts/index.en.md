@@ -13,10 +13,10 @@ weight: 1
 
 ---
 
-Phasmonauts is a 4 player local co-op supernatural roguelite. Cryptid sightings are on the rise! It’s up to you and your friends to invent ghost-hunting equipment to solve the mystery and fight these supernatural creatures.
+Phasmonauts is a 4 player local co-op supernatural roguelite. 
 
 <!--more-->
-
+Cryptid sightings are on the rise! It’s up to you and your friends to invent ghost-hunting equipment to solve the mystery and fight these supernatural creatures.
 
 {{< admonition warning "Wanna Play?" false >}}
 Apply [Here](https://store.steampowered.com/app/2654210/Phasmonauts/)
