@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Code Tutorials - Tag - Dougie</title>
+        <link>https://dougie.cool/tags/code-tutorials/</link>
+        <description>Code Tutorials - Tag - Dougie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Dec 2022 11:00:21 -0500</lastBuildDate><atom:link href="https://dougie.cool/tags/code-tutorials/" rel="self" type="application/rss+xml" /><item>
+    <title>So... You&#39;re A Programmer</title>
+    <link>https://dougie.cool/posts/source-code/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/source-code/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/source-code/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Find all my coding tutorials and example code HERE! My source code for current projects are updated monthly on <a href="https://dougiedev.gumroad.com/l/support" target="_blank" rel="noopener noreferrer">Dougie&rsquo;s Desktop</a></p>]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Posts - Category - Dougie</title>
+        <link>https://dougie.cool/categories/posts/</link>
+        <description>Posts - Category - Dougie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 11:00:21 -0500</lastBuildDate><atom:link href="https://dougie.cool/categories/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Join Phasmonauts!</title>
+    <link>https://dougie.cool/posts/phasmonauts/</link>
+    <pubDate>Mon, 06 May 2024 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/phasmonauts/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/phasmonauts/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Phasmonauts is a 4 player local co-op supernatural roguelite. Cryptid sightings are on the rise! It’s up to you and your friends to invent ghost-hunting equipment to solve the mystery and fight these supernatural creatures.</p>]]></description>
+</item><item>
+    <title>Where To Go?</title>
+    <link>https://dougie.cool/posts/what-am-i-doing-here/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/what-am-i-doing-here/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/what-am-i-doing-here/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Welcome to Dougie.Cool! You can find everything I&rsquo;ve ever made HERE!</p>]]></description>
+</item></channel>
+</rss>

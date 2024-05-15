@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Art - Tag - Dougie</title>
+        <link>https://dougie.cool/tags/art/</link>
+        <description>Art - Tag - Dougie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 11:00:21 -0500</lastBuildDate><atom:link href="https://dougie.cool/tags/art/" rel="self" type="application/rss+xml" /><item>
+    <title>Easily Animate Your Characters</title>
+    <link>https://dougie.cool/animation/</link>
+    <pubDate>Tue, 20 Jun 2023 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/animation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/animation/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Want to quickly add <strong>life</strong> to your original characters? Here’s a quick method I use.</p>]]></description>
+</item><item>
+    <title>Let&#39;s Look at Some Art</title>
+    <link>https://dougie.cool/images/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/images/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Find all my character art, landscapes, and animation tutorials here!</p>]]></description>
+</item></channel>
+</rss>

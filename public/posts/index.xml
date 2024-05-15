@@ -1,0 +1,52 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Dougie</title>
+        <link>https://dougie.cool/posts/</link>
+        <description>All Posts | Dougie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 11:00:21 -0500</lastBuildDate><atom:link href="https://dougie.cool/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Join Phasmonauts!</title>
+    <link>https://dougie.cool/posts/phasmonauts/</link>
+    <pubDate>Mon, 06 May 2024 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/phasmonauts/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/phasmonauts/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Phasmonauts is a 4 player local co-op supernatural roguelite. Cryptid sightings are on the rise! It’s up to you and your friends to invent ghost-hunting equipment to solve the mystery and fight these supernatural creatures.</p>]]></description>
+</item><item>
+    <title>Where To Go?</title>
+    <link>https://dougie.cool/posts/what-am-i-doing-here/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/what-am-i-doing-here/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/what-am-i-doing-here/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Welcome to Dougie.Cool! You can find everything I&rsquo;ve ever made HERE!</p>]]></description>
+</item><item>
+    <title>Easily Animate Your Characters</title>
+    <link>https://dougie.cool/animation/</link>
+    <pubDate>Tue, 20 Jun 2023 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/animation/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/animation/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Want to quickly add <strong>life</strong> to your original characters? Here’s a quick method I use.</p>]]></description>
+</item><item>
+    <title>Let&#39;s Look at Some Art</title>
+    <link>https://dougie.cool/images/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/images/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Find all my character art, landscapes, and animation tutorials here!</p>]]></description>
+</item><item>
+    <title>So... You&#39;re A Programmer</title>
+    <link>https://dougie.cool/posts/source-code/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Dougie</name>
+    </author><guid>https://dougie.cool/posts/source-code/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/source-code/featured-image.png" referrerpolicy="no-referrer">
+            </div><p>Find all my coding tutorials and example code HERE! My source code for current projects are updated monthly on <a href="https://dougiedev.gumroad.com/l/support" target="_blank" rel="noopener noreferrer">Dougie&rsquo;s Desktop</a></p>]]></description>
+</item></channel>
+</rss>

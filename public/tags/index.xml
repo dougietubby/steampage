@@ -1,0 +1,56 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Dougie</title>
+        <link>https://dougie.cool/tags/</link>
+        <description>Tags - Tag - Dougie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 May 2024 11:00:21 -0500</lastBuildDate><atom:link href="https://dougie.cool/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>About</title>
+    <link>https://dougie.cool/tags/about/</link>
+    <pubDate>Mon, 06 May 2024 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/about/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Posts</title>
+    <link>https://dougie.cool/tags/posts/</link>
+    <pubDate>Mon, 06 May 2024 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/posts/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Animation</title>
+    <link>https://dougie.cool/tags/animation/</link>
+    <pubDate>Tue, 20 Jun 2023 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/animation/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Art</title>
+    <link>https://dougie.cool/tags/art/</link>
+    <pubDate>Tue, 20 Jun 2023 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/art/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Code Tutorials</title>
+    <link>https://dougie.cool/tags/code-tutorials/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/code-tutorials/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Example Code</title>
+    <link>https://dougie.cool/tags/example-code/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/example-code/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Source Code</title>
+    <link>https://dougie.cool/tags/source-code/</link>
+    <pubDate>Thu, 29 Dec 2022 11:00:21 -0500</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://dougie.cool/tags/source-code/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
